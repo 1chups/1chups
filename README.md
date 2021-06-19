@@ -7,3 +7,8 @@
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongodb)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net)
+
+
+### Follow Me
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/prod.instx/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://www.instagram.com/@danyabarbie/)
