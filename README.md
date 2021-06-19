@@ -1,5 +1,7 @@
 ![Header](https://github.com/1chups/1chups/blob/main/assets/шапка.png)
 
+### Hello! I'm a Developer and Software Engeneer
+
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
